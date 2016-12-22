@@ -2,19 +2,21 @@
 
 Repoistory for Victor
 
-## December 21st
+## December 21st (Python)
 
 - Reviewed Dictionaries, chapter 4 in the book
 - Created resistor.py, which is now in the dec21_dictionaries folder, named resistor.py
 - Started to review booleans, how Python treats other values as booleans, and how to use them in conditionals (beginning of chapter 5)
 
-## December 14th
+## December 16th (Linux)
 
-### Raspberry Pi Links
-
-Look at these links for some cool projects. If you like any of them, we can start planning how we can do it in the coming weeks or months:
-
-- **TODO**: Lookup projects with RaspPi to see if youre interested
+- Reviewed what we did last time, including the file system and file permissions
+- Went over the chpater about devices, and how Linux thinks about devices. This includes
+  - Character devices, like terminals
+  - Block devices, like hard drives
+  - /dev/null
+  - /dev/zero
+- **HW:** Raspberry Pi Links. Plase look at these links for some cool projects. If you like any of them, we can start planning how we can do it in the coming weeks or months:
   - http://www.itpro.co.uk/mobile/21862/raspberry-pi-top-22-projects-to-try-yourself
     - "Stratux is a project devised to tell you information about the various aircraft in the sky around you, and it’s wonderfully simply to build"
     - "Using the RetroPie emulation software, he was able to make a retro games console that's entirely contained in the controller"
