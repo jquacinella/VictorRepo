@@ -8,7 +8,7 @@ Repoistory for Victor
 - Created resistor.py, which is now in the dec21_dictionaries folder, named resistor.py
 - Started to review booleans, how Python treats other values as booleans, and how to use them in conditionals (beginning of chapter 5)
 
-## Dec 14th
+## December 14th
 
 ### Raspberry Pi Links
 
