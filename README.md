@@ -2,7 +2,15 @@
 
 Repoistory for Victor
 
-## Raspberry Pi Links
+## December 21st
+
+- Reviewed Dictionaries, chapter 4 in the book
+- Created resistor.py, which is now in the dec21_dictionaries folder, named resistor.py
+- Started to review booleans, how Python treats other values as booleans, and how to use them in conditionals (beginning of chapter 5)
+
+## Dec 14th
+
+### Raspberry Pi Links
 
 Look at these links for some cool projects. If you like any of them, we can start planning how we can do it in the coming weeks or months:
 
