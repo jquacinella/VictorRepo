@@ -2,6 +2,23 @@
 
 Repoistory for Victor
 
+
+## December 23st (Linux)
+
+- Starting chapter 4, which is about disk drives and paritions
+- went over metadata
+- filesystems
+    - ntfs, fat on windows
+    - linux: ext2, ext3, ext4, reiserfs, btrfs, ...
+- partition commands
+    - gparted is a gui program
+    - fdisk is a command line program
+    - on windows, right click starrt menu to go to "Disk Management"
+- swap space
+- file systems
+    - make a file system using mkfs
+    - moutned the filesystem using mount -t ext4 /dev/sdb1 /mnt
+
 ## December 21st (Python)
 
 - Reviewed Dictionaries, chapter 4 in the book
@@ -10,8 +27,8 @@ Repoistory for Victor
 
 ## December 16th (Linux)
 
-- Reviewed what we did last time, including the file system and file permissions
-- Went over the chpater about devices, and how Linux thinks about devices. This includes
+- Reviewed what we did last time, including the file system and file permissions (chapter 2)
+- Went over the chpater about devices, and how Linux thinks about devices (chapter 3). This includes
   - Character devices, like terminals
   - Block devices, like hard drives
   - /dev/null
